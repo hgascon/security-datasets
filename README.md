@@ -17,6 +17,8 @@ A collection of resources for security data
     - http://oc.gtisc.gatech.edu:8080
     - http://www.kernelmode.info/forum/viewforum.php?f=16
     - http://www.malwaregroup.com
+    - https://www.threatminer.org/
+    - http://www.malshare.com
 ### Web-based Malware
   - Threat Glass. Explore web threats. View and analyze thousands of exploited websites http://threatglass.com/
 ### Network Traffic
@@ -48,17 +50,16 @@ A collection of resources for security data
 ## Threat Intelligence
 ### IOC Databases
   - IOC Bucket. Community Supported Threat Intelligence https://www.iocbucket.com/
+  - Citizen Lab Malware Indicators https://github.com/citizenlab/malware-indicators
 ### Platforms
   - Malware Information Sharing Platform http://www.misp-project.org/
 
 ## CTF Logs
   - DEFCON CTF Archive https://www.defcon.org/html/links/dc-ctf.html
 
-
 ## Other Collections
   - SecRepo.com is a repository of Security Data Samples licensed as Creative Commons for researchers to get their feet wet on data analysis in Information Security. Maintained by Mike Sconzo.
  http://www.secrepo.com
-
 
 ## Tools
 - VirusShare-Search. Downloads VirusShare hashes and searches them for specified MD5 hash values https://github.com/AdamGreenhill/VirusShare-Search
